@@ -1,0 +1,26 @@
+RES-COM INVENTORY v1.1 GITHUB MERGE
+
+This package is an overlay for the existing repository:
+https://github.com/rescomrescue1-ui/Rescom-inventory
+
+UPLOAD STEPS
+1. Extract this ZIP on your computer.
+2. Open the GitHub repository.
+3. Click Add file > Upload files.
+4. Drag ALL files from this extracted folder into the upload box.
+5. GitHub will show index.html, service-worker.js, and version.json as replacements. Keep those replacements.
+6. Commit directly to main.
+7. Wait about 1-2 minutes for GitHub Pages to update.
+8. Open the app, go to MORE > FULL PDF INVENTORY CATALOG.
+9. As Owner/Admin/Developer, press SYNC ALL 2,385 ITEMS TO AIRTABLE once. Keep the phone/browser open until it reaches 100%.
+10. Go back to Dashboard and press REFRESH.
+
+WHAT THIS ADDS
+- 2,385 PDF inventory items
+- 1,281 extracted source photos compressed into the app
+- Search by item, part number, manufacturer, supplier, category, location, or notes
+- Source price, date, stock policy, restock rules, PDF page, notes, supplier, shelf/bin
+- One-tap import/update into the live Airtable Items table
+
+IMPORTANT
+No Airtable token is included in these files. The app uses the token already stored locally on the authorized device.
